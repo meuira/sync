@@ -1,0 +1,15 @@
+[submodule "BakaSU"]
+	path = BakaSU
+	url = https://github.com/Baka-SU/BakaSU
+[submodule "KernelSU"]
+	path = KernelSU
+	url = https://github.com/tiann/KernelSU
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/KernelSU-Next/KernelSU-Next
+[submodule "KowSU"]
+	path = KowSU
+	url = https://github.com/KOWX712/KernelSU
+[submodule "SukiSU-Ultra"]
+	path = SukiSU-Ultra
+	url = https://github.com/SukiSU-Ultra/SukiSU-Ultra
